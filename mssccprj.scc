@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[URLTester.dsp]
+SCC_Aux_Path = "C:\项目\VSS"
+SCC_Project_Name = "$/URLTester2", CAAAAAAA
+
+[URLTester.dsw]
+SCC_Aux_Path = "C:\项目\VSS"
+SCC_Project_Name = "$/URLTester2", CAAAAAAA
